@@ -1,0 +1,4 @@
+<job id="Testing Sales Kit functionality">
+   <script language="VBScript" src="common.vbs"/>
+   <script language="VBScript" src="SalesOrder_select.vbs"/>
+</job>
